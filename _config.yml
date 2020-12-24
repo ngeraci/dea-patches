@@ -100,8 +100,6 @@ search:
 menu:
   - label: About
     link: /about/
-  - label: Gallery
-    link: /gallery/
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
