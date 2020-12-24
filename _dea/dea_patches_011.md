@@ -1,9 +1,9 @@
 ---
 pid: dea_patches_011
 label: Special Agent 1973-2008
-subject: 
-place: 
-! '': " "
+subject:
+place:
+! '':
 order: '10'
 layout: dea_simple_item
 collection: dea
