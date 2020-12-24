@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_006
-title: 2005 National Scout Jamboree
+label: 2005 National Scout Jamboree
 subject: Boy Scouts of America;Youth anti-drug programs
 place: 
 ! '': 

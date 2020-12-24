@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_031
-title: Intelligence Program
+label: Intelligence Program
 subject: 
 place: 
 ! '': 

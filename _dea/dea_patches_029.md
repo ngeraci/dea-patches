@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_029
-title: Office of International Operations - Far East Section
+label: Office of International Operations - Far East Section
 subject: 
 place: East Asia
 ! '': 

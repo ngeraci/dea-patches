@@ -1,4 +1,4 @@
-pid,title,subject,place,,order,layout,collection,thumbnail,full,manifest
+pid,label,subject,place,,order,layout,collection,thumbnail,full,manifest
 dea_patches_001,U.S. Justice Department Drug Enforcement Administration,,,,0,dea_simple_item,dea,img/derivatives/simple/dea_patches_001/thumbnail.jpg,img/derivatives/simple/dea_patches_001/fullwidth.jpg,/img/derivatives/iiif/dea_patches_001/manifest.json
 dea_patches_002,Special Agent,,,,1,dea_simple_item,dea,img/derivatives/simple/dea_patches_002/thumbnail.jpg,img/derivatives/simple/dea_patches_002/fullwidth.jpg,/img/derivatives/iiif/dea_patches_002/manifest.json
 dea_patches_011,Special Agent 1973-2008,,, ,10,dea_simple_item,dea,img/derivatives/simple/dea_patches_011/thumbnail.jpg,img/derivatives/simple/dea_patches_011/fullwidth.jpg,/img/derivatives/iiif/dea_patches_011/manifest.json

@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_028
-title: Ecstasy & Predatory Drugs - Dancing with Darkness
+label: Ecstasy & Predatory Drugs - Dancing with Darkness
 subject: MDMA; Rave culture
 place: 
 ! '': 

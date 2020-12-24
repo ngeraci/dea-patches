@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_023
-title: Europe Asia Africa Intelligence Division
+label: Europe Asia Africa Intelligence Division
 subject: 
 place: Europe;Asia;Africa
 ! '': 

@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_033
-title: Financial Operations Section
+label: Financial Operations Section
 subject: 
 place: 
 ! '': 

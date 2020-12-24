@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_001
-title: U.S. Justice Department Drug Enforcement Administration
+label: U.S. Justice Department Drug Enforcement Administration
 subject: 
 place: 
 ! '': 

@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_012
-title: 40th Anniversary
+label: 40th Anniversary
 subject: 
 place: 
 ! '': 

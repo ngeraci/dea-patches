@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_010
-title: Say No to Drugs - 2001 National Scout Jamboree
+label: Say No to Drugs - 2001 National Scout Jamboree
 subject: Boy Scouts of America;Youth anti-drug programs
 place: 
 ! '': 

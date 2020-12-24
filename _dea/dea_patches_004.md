@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_004
-title: Clandestine Laboratory Enforcement Team
+label: Clandestine Laboratory Enforcement Team
 subject: 
 place: 
 ! '': 

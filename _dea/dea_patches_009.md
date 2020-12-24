@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_009
-title: Gold insignia on black
+label: Gold insignia on black
 subject: 
 place: 
 ! '': 

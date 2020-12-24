@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_008
-title: Red Ribbon Week - Amangamek-Wipit Lodge 470
+label: Red Ribbon Week - Amangamek-Wipit Lodge 470
 subject: Red Ribbon Week;Youth anti-drug programs
 place: 
 ! '': 

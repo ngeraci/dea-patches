@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_007
-title: Red Ribbon Week - Aquia District Fall Camporee
+label: Red Ribbon Week - Aquia District Fall Camporee
 subject: Red Ribbon Week;Youth anti-drug programs
 place: 
 ! '': 

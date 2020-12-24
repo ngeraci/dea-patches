@@ -84,8 +84,7 @@ search:
       dea:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - pid
-          - title
+          - label
           - subject
           - place
 

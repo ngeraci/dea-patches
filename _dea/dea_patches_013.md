@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_013
-title: Red Ribbon Week 25 years - Remembering Special Agent Camarena
+label: Red Ribbon Week 25 years - Remembering Special Agent Camarena
 subject: Enrique Camarena;Red Ribbon Week;Youth anti-drug programs
 place: 
 ! '': 

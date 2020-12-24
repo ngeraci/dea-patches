@@ -1,6 +1,6 @@
 ---
 pid: dea_patches_027
-title: Domestic Cannabis Eradication / Suppression Program
+label: Domestic Cannabis Eradication / Suppression Program
 subject: Cannabis
 place: 
 ! '': 
