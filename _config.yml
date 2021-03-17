@@ -21,7 +21,7 @@
 title:            DEA Patches
 description:      material culture of U.S. drug enforcement
 url:              ''
-baseurl:          https://ngeraci.github.io/deapatches/
+baseurl:          /deapatches
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
